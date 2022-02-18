@@ -1,5 +1,18 @@
-const employee = require('../src/employee.js')
+const employee = require('../lib/employee.js')
 
-test('name is a class', ()=> {
-    expect(employee).toBe(employee)
+describe('make an employee profile', () =>{
+    expect(employee).toBe(employee);
+
+}) 
+
+describe('make a name', () => {
+    expect(name).toBe(name)
+})
+
+describe('make an id', () => {
+    expect(id).toBe(id)
+})
+
+describe('make an id', () => {
+    expect(id).toBe(id)
 })
