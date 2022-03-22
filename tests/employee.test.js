@@ -1,4 +1,4 @@
-const Employee = require("../lib/Employee");
+const Employee = require("../lib/employee");
 
 test("Can create an new employee.", () => {
     const employeeInstance = new Employee();
@@ -19,7 +19,7 @@ test("Testing ID.", () => {
 
 test("Testing email.", () => {
     const email = "kookieG@mail.com";
-    const employeeInstance = new Employee("kookie", 2, email);
+    const employeeInstance = new Employee("Kookie", 2, email);
     expect(employeeInstance.email).toBe(email);
 })
 
