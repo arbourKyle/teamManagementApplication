@@ -19,6 +19,11 @@
 ## Description
 This application generates a webpage with the information of your employees, team, and/or crew.
 
+![](./img/generatedFile.jpg)
+
+
+https://youtu.be/3mM4fuq22tA
+
 ## License
 This product is under the The Unlicense.
 
