@@ -44,7 +44,7 @@ After you press generate, you can find a file called team-page in the dist folde
 Feel free to fork this project and make changes for review.
 
 ## Tests
-Type npm run test <filename> in the root folder. You can find the file names in the test folder. You must have nodejs and jest installed beforehand.
+Type npm run test 'filename' in the root folder. You can find the file names in the test folder. You must have nodejs and jest installed beforehand.
 
 ## Questions
 https://github.com/arbourkyle 
