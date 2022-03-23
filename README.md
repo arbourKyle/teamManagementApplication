@@ -30,13 +30,15 @@ This product is under the The Unlicense.
 ## Installation
 -Clone this repository</br>
 -Open the repository folder in a terminal</br>
--With nodejs installed you can type 
+-With nodejs installed you can type </br>
+
   npm start
- and follow the steps</br>
+
+and follow the steps</br>
  -Add as many employees of as many types as you need to  and, when you are done, select generate and press enter.
 
 ## Usage
-After you press generate, you can find a file called team-page in the dist folder, this is your webpage, right click and select open.
+After you press generate, you can find a file called team-page in the dist folder, this is your webpage, right click and select open in default browser. For easy reference, you can move this file anywhere on your computer you like, make a desktop shortcut, or bookmark it in your browser.
 
 ## Contributing
 Feel free to fork this project and make changes for review.
